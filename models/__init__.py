@@ -1,0 +1,1 @@
+from .minihack_models import MiniHackNet
